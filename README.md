@@ -4,7 +4,7 @@
 
 
 
-Follow the next steps to create and deploy all the infrestructure in GCP
+Follow the next steps to create and deploy all the infrastructure in GCP
 - terraform init
 - terraform plan
 - terraform apply
